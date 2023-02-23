@@ -28,7 +28,7 @@ Changed the HTML div tags, added and id, and simplified css to make a more strea
 
 Deployed Page: https://sasterck.github.io/challenge1/
 
-Screen Shot 2023-02-22 at 6.19.49 PM.png
+![Uploading Screen Shot 2023-02-22 at 6.19.49 PM.png…](deployed screenshot)
 
 ## Authors
 
